@@ -1,7 +1,7 @@
 ---
-title: "🎮 Pokémon API 🐾"
-description: "Pokémon API ile kendi Pokémon dünyanızı keşfedin ve yönetin! Bu API, favori Pokémon'larınızı CRUD işlemleri ile yönetme fırsatı sunar. Eğlenceli ve renkli bir deneyim için hazır olun!"
-sections:
+"🎮 Pokémon API 🐾"   ![Pikachu](https://img.icons8.com/color/48/000000/pikachu-pokemon.png)      ![Charmander](https://img.icons8.com/color/48/000000/charmander.png)    ![Squirtle](https://img.icons8.com/color/48/000000/squirtle.png)
+ "Pokémon API ile kendi Pokémon dünyanızı keşfedin ve yönetin! Bu API, favori Pokémon'larınızı CRUD işlemleri ile yönetme fırsatı sunar. Eğlenceli ve renkli bir deneyim için hazır olun!"
+
   -  "🚀 Nasıl Kullanılır?"
     content: |
       1. **Depoyu Klonla** 🖥️: Bu projeyi kendi bilgisayarınıza klonlayın.
@@ -48,25 +48,6 @@ sections:
         DELETE /api/pokemon/{id}
         ```
 
-      ### Pikachu ⚡
-      Pikachu, elektrik tipi bir Pokémon'dur ve genellikle enerjik ve maceracı bir karakter olarak bilinir. **Elektrik şoku** yeteneğiyle rakiplerini etkisiz hale getirir.
-
-      ![Pikachu](https://img.icons8.com/color/48/000000/pikachu-pokemon.png)
-
-      ### Bulbasaur 🌱
-      Bulbasaur, hem çimen hem de zehir tipi bir Pokémon'dur. Sırtında büyüyen bitki, güneş ışığını toplar ve bu bitki olgunlaştıkça Bulbasaur daha güçlü hale gelir.
-
-      ![Bulbasaur](https://img.icons8.com/color/48/000000/bulbasaur.png)
-
-      ### Charmander 🔥
-      Charmander, ateş tipi bir Pokémon'dur. Kuyruğundaki alev, onun ruh halini yansıtır. Alev ne kadar parlaksa, Charmander o kadar mutlu ve enerjik demektir.
-
-      ![Charmander](https://img.icons8.com/color/48/000000/charmander.png)
-
-      ### Squirtle 💧
-      Su tipi Pokémon olan Squirtle, kabuğuyla kendini korur ve düşmanlarına karşı **Su Tabancası** saldırısını kullanır. Dalgalar yaratma konusunda oldukça yeteneklidir.
-
-      ![Squirtle](https://img.icons8.com/color/48/000000/squirtle.png)
 
   -  "🛠️ Kurulum"
     content: |
